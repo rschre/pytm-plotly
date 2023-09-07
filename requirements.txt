@@ -1,1 +1,2 @@
-pytmlib>=1.0
+pytmlib==1.1.0.dev20
+plotly
